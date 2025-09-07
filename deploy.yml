@@ -30,3 +30,5 @@ spec:
     app: zomato
   ports:
     - port: 3000
+targetport: 80
+
